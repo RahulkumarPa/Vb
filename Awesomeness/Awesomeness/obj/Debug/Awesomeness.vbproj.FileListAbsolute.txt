@@ -1,0 +1,11 @@
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\bin\Debug\Awesomeness.exe.config
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\bin\Debug\Awesomeness.exe
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\bin\Debug\Awesomeness.pdb
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\bin\Debug\Awesomeness.xml
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\obj\Debug\Awesomeness.vbprojResolveAssemblyReference.cache
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\obj\Debug\Awesomeness.frmAwesomeness.resources
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\obj\Debug\Awesomeness.Resources.resources
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\obj\Debug\Awesomeness.vbproj.GenerateResource.Cache
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\obj\Debug\Awesomeness.exe
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\obj\Debug\Awesomeness.xml
+F:\DC\SEM02\NETD LAB\VB\Awesomeness\Awesomeness\obj\Debug\Awesomeness.pdb

@@ -1,0 +1,11 @@
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\bin\Debug\Semester Average.exe.config
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\bin\Debug\Semester Average.exe
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\bin\Debug\Semester Average.pdb
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\bin\Debug\Semester Average.xml
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\obj\Debug\Semester Average.vbprojResolveAssemblyReference.cache
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\obj\Debug\Semester_Average.frmSemesterAverage.resources
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\obj\Debug\Semester_Average.Resources.resources
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\obj\Debug\Semester Average.vbproj.GenerateResource.Cache
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\obj\Debug\Semester Average.exe
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\obj\Debug\Semester Average.xml
+F:\DC\SEM02\NETD LAB\VB\Semester Average\Semester Average\obj\Debug\Semester Average.pdb

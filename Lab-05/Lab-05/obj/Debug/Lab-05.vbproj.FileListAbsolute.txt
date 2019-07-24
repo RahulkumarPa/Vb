@@ -1,0 +1,11 @@
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\bin\Debug\Lab-05.exe.config
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\bin\Debug\Lab-05.exe
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\bin\Debug\Lab-05.pdb
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\bin\Debug\Lab-05.xml
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\obj\Debug\Lab-05.vbprojResolveAssemblyReference.cache
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\obj\Debug\Lab_05.Resources.resources
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\obj\Debug\Lab-05.vbproj.GenerateResource.Cache
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\obj\Debug\Lab-05.exe
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\obj\Debug\Lab-05.xml
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\obj\Debug\Lab-05.pdb
+F:\DC\SEM02\NETD LAB\VB\Lab-05\Lab-05\obj\Debug\Lab_05.frmTextEditor.resources

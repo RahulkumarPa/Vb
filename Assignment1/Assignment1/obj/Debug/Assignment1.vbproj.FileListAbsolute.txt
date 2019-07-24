@@ -1,0 +1,11 @@
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\bin\Debug\Assignment1.xml
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\obj\Debug\Assignment1.vbprojResolveAssemblyReference.cache
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\obj\Debug\Assignment1.Resources.resources
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\obj\Debug\Assignment1.vbproj.GenerateResource.Cache
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\obj\Debug\Assignment1.xml
+F:\DC\SEM02\NETD LAB\VB\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
